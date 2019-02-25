@@ -16,7 +16,7 @@
           - WebPack
       - Frameworks
         - React
-        - Angular 7
+        - [Angular 7](https://www.udemy.com/the-complete-guide-to-angular-2)
           - RxJS
           - TypeScript
     - BackEnd
