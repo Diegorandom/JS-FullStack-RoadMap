@@ -15,7 +15,7 @@
         - Module bundlers
           - WebPack
       - Frameworks
-        - React
+        - [React](https://app.pluralsight.com/player?course=react-fundamentals-update&author=liam-mclennan&name=9ba290af-f08b-46e3-ba91-83a7a006185a&clip=0)
         - [Angular 7](https://www.udemy.com/the-complete-guide-to-angular-2)
           - RxJS
           - TypeScript
