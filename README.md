@@ -1,7 +1,7 @@
 # RoadMap
 ![alt text](https://github.com/Diegorandom/RoadMap/blob/master/RoadMap.png)
 
-- JS FullStack & Intelligent Systems Expert
+- JS FullStack & Intelligent Systems Programmer
   - JS FullStack
     - FrontEnd
       - PWA
@@ -19,11 +19,7 @@
         - Angular 7
           - RxJS
           - TypeScript
-      - Mobile Apps
-        - React native
     - BackEnd
-      - Web Sockets
-        - Socket.io
       - AWS
       - Containers
         - Docker
