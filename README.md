@@ -25,7 +25,7 @@
         - Docker
       - Storage
         - Cache
-          -Redis
+          - Redis
         - Databases
           - Relational DB
             - MySQL
