@@ -37,7 +37,7 @@
         - Express.js
     - Intelligent Systems
       - Monte Carlo
-        - Montecarlo reinforcemente learning
+        - Montecarlo reinforcement learning
         - Game theory
         - Monte Carlo tree search
       - Machine Learning
